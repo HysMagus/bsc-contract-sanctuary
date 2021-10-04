@@ -1,0 +1,1 @@
+[{"outputs":[],"inputs":[{"type":"int128","name":"_x"}],"stateMutability":"nonpayable","type":"constructor"},{"name":"set","outputs":[],"inputs":[{"type":"int128","name":"_x"}],"stateMutability":"nonpayable","type":"function","gas":35406},{"name":"storedData","outputs":[{"type":"int128","name":""}],"inputs":[],"stateMutability":"view","type":"function","gas":1091}]

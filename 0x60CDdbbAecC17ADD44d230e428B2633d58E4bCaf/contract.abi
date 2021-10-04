@@ -1,0 +1,1 @@
+[{"inputs":[],"name":"FASTGAS","outputs":[{"internalType":"contract IBChainLinkFeed","name":"","type":"address"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"uint256","name":"gasUsed","type":"uint256"}],"name":"getQuoteLimit","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function"}]
